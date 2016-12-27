@@ -73,3 +73,4 @@ $('.shopping-item-toggle').click(function(event) {
     renderList();
 });
 
+}
